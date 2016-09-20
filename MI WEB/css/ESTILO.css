@@ -1,0 +1,83 @@
+#contenidos
+ {
+
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background-image: url(../imag/vidriera-azules-aguas1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+body
+{
+	background-image: url(../imag/corazones.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+p{
+	/*FALTA COLOCAR EL TIPO DE LETRA*/
+	font-family: 'Yatra One', cursive;
+	
+	margin-left: 10px;
+	font-size: 50px;
+	text-align: center;
+	color: blue;
+
+}
+
+h1{
+	/*FALTA COLOCAR TIPO DE LETRA*/
+	font-family: 'Righteous', cursive;
+	margin-left: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: red;
+
+}
+ul{
+	margin: auto;
+	padding: 4px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	padding: 15px;
+	background: orange;
+	margin: 5px;
+	border-radius: 8px;
+
+	
+}
+h2{
+	float: left;
+	list-style-type: none;
+	padding: 15px;
+	background: orange;
+	margin: 5px;
+	border-radius: 8px;
+}
+section {
+	width: 600px;
+	height: 200px;
+	background-image: url(../imag/corazones.jpg);
+	border-radius: 20px;
+
+}
+h3{
+	text-align: center;
+	color: white;
+}
+aside{
+	width: 380px;
+	height: 200px;
+	background-image: url(../imag/corazones.jpg);
+	float: right;
+	border-radius: 20px;
+}
+h5{
+	text-align: center;
+}
